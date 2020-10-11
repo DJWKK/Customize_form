@@ -6,21 +6,21 @@
 
 #### 实现了表单模块的自由拖动
 
-<video src="readme_img/可拖动演示.mp4"></video>
+![可拖动演示](README.assets/可拖动演示.gif)
 
 #### 实现了表单属性设置
 
 将表单的属性name和title设置为一样的值
 
-<video src="readme_img/表单属性设置.mp4"></video>
+![表单属性设置](README.assets/表单属性设置.gif)
 
 #### 实现了自定义表单的填报
 
-<video src="readme_img/表单填报演示.mp4"></video>
+![表单填报演示](README.assets/表单填报演示-2383229.gif)
 
 #### 实现了填报数据的统计
 
-<video src="readme_img/填报数据统计.mp4"></video>
+![填报数据统计](README.assets/填报数据统计.gif)
 
 ---
 
